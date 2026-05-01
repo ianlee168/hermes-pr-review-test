@@ -10,3 +10,4 @@ gh token test Fri May  1 03:11:31 PM UTC 2026
 skill v3 Fri May  1 03:16:27 PM UTC 2026
 skill v4 test Fri May  1 03:50:27 PM UTC 2026
 skill fix 155703
+skill fix unicode
